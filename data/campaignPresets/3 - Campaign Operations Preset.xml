@@ -686,12 +686,12 @@
             <firstAttribute>INTELLIGENCE</firstAttribute>
             <secondAttribute>WILLPOWER</secondAttribute>
             <greenLvl>1</greenLvl>
-            <regLvl>2</regLvl>
-            <vetLvl>3</vetLvl>
+            <regLvl>3</regLvl>
+            <vetLvl>4</vetLvl>
             <eliteLvl>5</eliteLvl>
             <heroicLvl>7</heroicLvl>
-            <legendaryLvl>8</legendaryLvl>
-            <costs>8,4,4,4,4,4,-1,-1,-1,-1,-1</costs>
+            <legendaryLvl>9</legendaryLvl>
+            <costs>12,6,6,6,6,6,6,-1,-1,-1,-1</costs>
         </skillType>
         <skillType>
             <name>Animal Handling (RP Only)</name>
@@ -926,11 +926,11 @@
             <firstAttribute>INTELLIGENCE</firstAttribute>
             <secondAttribute>NONE</secondAttribute>
             <greenLvl>1</greenLvl>
-            <regLvl>2</regLvl>
-            <vetLvl>3</vetLvl>
-            <eliteLvl>4</eliteLvl>
-            <heroicLvl>6</heroicLvl>
-            <legendaryLvl>7</legendaryLvl>
+            <regLvl>3</regLvl>
+            <vetLvl>4</vetLvl>
+            <eliteLvl>5</eliteLvl>
+            <heroicLvl>7</heroicLvl>
+            <legendaryLvl>9</legendaryLvl>
             <costs>12,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</costs>
         </skillType>
         <skillType>
@@ -1586,12 +1586,12 @@
             <firstAttribute>INTELLIGENCE</firstAttribute>
             <secondAttribute>NONE</secondAttribute>
             <greenLvl>1</greenLvl>
-            <regLvl>2</regLvl>
-            <vetLvl>3</vetLvl>
-            <eliteLvl>4</eliteLvl>
-            <heroicLvl>6</heroicLvl>
-            <legendaryLvl>7</legendaryLvl>
-            <costs>20,10,20,30,40,50,60,70,80,90,100</costs>
+            <regLvl>3</regLvl>
+            <vetLvl>4</vetLvl>
+            <eliteLvl>5</eliteLvl>
+            <heroicLvl>7</heroicLvl>
+            <legendaryLvl>9</legendaryLvl>
+            <costs>12,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</costs>
         </skillType>
         <skillType>
             <name>Melee Weapons</name>
@@ -2015,18 +2015,18 @@
         </skillType>
         <skillType>
             <name>Small Arms</name>
-            <target>8</target>
+            <target>7</target>
             <isCountUp>false</isCountUp>
             <subType>COMBAT_GUNNERY</subType>
             <firstAttribute>DEXTERITY</firstAttribute>
             <secondAttribute>NONE</secondAttribute>
             <greenLvl>2</greenLvl>
-            <regLvl>4</regLvl>
-            <vetLvl>5</vetLvl>
-            <eliteLvl>6</eliteLvl>
-            <heroicLvl>7</heroicLvl>
-            <legendaryLvl>8</legendaryLvl>
-            <costs>8,4,4,4,4,4,4,4,4,-1,-1</costs>
+            <regLvl>3</regLvl>
+            <vetLvl>4</vetLvl>
+            <eliteLvl>5</eliteLvl>
+            <heroicLvl>6</heroicLvl>
+            <legendaryLvl>7</legendaryLvl>
+            <costs>16,8,8,8,8,8,8,8,-1,-1,-1</costs>
         </skillType>
         <skillType>
             <name>Stealth (RP Only)</name>
@@ -2158,10 +2158,10 @@
             <greenLvl>1</greenLvl>
             <regLvl>3</regLvl>
             <vetLvl>4</vetLvl>
-            <eliteLvl>6</eliteLvl>
-            <heroicLvl>8</heroicLvl>
+            <eliteLvl>5</eliteLvl>
+            <heroicLvl>7</heroicLvl>
             <legendaryLvl>9</legendaryLvl>
-            <costs>12,6,6,6,6,6,-1,-1,-1,-1,-1</costs>
+            <costs>12,6,6,6,6,6,6,-1,-1,-1,-1</costs>
         </skillType>
         <skillType>
             <name>Tech/BattleArmor</name>
@@ -2173,10 +2173,10 @@
             <greenLvl>1</greenLvl>
             <regLvl>3</regLvl>
             <vetLvl>4</vetLvl>
-            <eliteLvl>6</eliteLvl>
-            <heroicLvl>8</heroicLvl>
+            <eliteLvl>5</eliteLvl>
+            <heroicLvl>7</heroicLvl>
             <legendaryLvl>9</legendaryLvl>
-            <costs>12,6,6,6,6,6,-1,-1,-1,-1,-1</costs>
+            <costs>12,6,6,6,6,6,6,-1,-1,-1,-1</costs>
         </skillType>
         <skillType>
             <name>Tech/Mechanic</name>
@@ -2188,10 +2188,10 @@
             <greenLvl>1</greenLvl>
             <regLvl>3</regLvl>
             <vetLvl>4</vetLvl>
-            <eliteLvl>6</eliteLvl>
-            <heroicLvl>8</heroicLvl>
+            <eliteLvl>5</eliteLvl>
+            <heroicLvl>7</heroicLvl>
             <legendaryLvl>9</legendaryLvl>
-            <costs>12,6,6,6,6,6,-1,-1,-1,-1,-1</costs>
+            <costs>12,6,6,6,6,6,6,-1,-1,-1,-1</costs>
         </skillType>
         <skillType>
             <name>Tech/Mek</name>
@@ -2203,10 +2203,10 @@
             <greenLvl>1</greenLvl>
             <regLvl>3</regLvl>
             <vetLvl>4</vetLvl>
-            <eliteLvl>6</eliteLvl>
-            <heroicLvl>8</heroicLvl>
+            <eliteLvl>5</eliteLvl>
+            <heroicLvl>7</heroicLvl>
             <legendaryLvl>9</legendaryLvl>
-            <costs>12,6,6,6,6,6,-1,-1,-1,-1,-1</costs>
+            <costs>12,6,6,6,6,6,6,-1,-1,-1,-1</costs>
         </skillType>
         <skillType>
             <name>Tech/Vessel</name>
@@ -2218,10 +2218,10 @@
             <greenLvl>1</greenLvl>
             <regLvl>3</regLvl>
             <vetLvl>4</vetLvl>
-            <eliteLvl>6</eliteLvl>
-            <heroicLvl>8</heroicLvl>
+            <eliteLvl>5</eliteLvl>
+            <heroicLvl>7</heroicLvl>
             <legendaryLvl>9</legendaryLvl>
-            <costs>12,6,6,6,6,6,-1,-1,-1,-1,-1</costs>
+            <costs>12,6,6,6,6,6,6,-1,-1,-1,-1</costs>
         </skillType>
         <skillType>
             <name>Thrown Weapons</name>
