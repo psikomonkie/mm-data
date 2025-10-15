@@ -18316,6 +18316,10 @@
                 <roles>support</roles>
                 <availability>IS:2,FS:2-,LA:2-,Periphery:3,PIR:1</availability>
             </model>
+            <model name='(Mobile Canteen)'>
+                <roles>support</roles>
+                <availability>IS:6,Periphery:6,CEI:5+,PIR:5+</availability>
+            </model>
         </chassis>
         <chassis name='Shillelagh Missile Tank' unitType='Tank'>
             <availability>DC:4-,LA:3-,ROS:3-,MERC:3-</availability>

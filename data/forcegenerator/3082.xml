@@ -17988,6 +17988,10 @@
                 <roles>support</roles>
                 <availability>IS:2,FS:2-,LA:2-,Periphery:3,PIR:1</availability>
             </model>
+            <model name='(Mobile Canteen)'>
+                <roles>support</roles>
+                <availability>IS:6,Periphery:6,CEI:5+,PIR:5+</availability>
+            </model>
         </chassis>
         <chassis name='Shilone' unitType='AeroSpaceFighter'>
             <availability>RA.OA:4,Periphery.DD:4,FVC:2,OA:4,CGB.FRR:7,ROS:5,MERC:4,Periphery.OS:4,RA:3,DC:7,Periphery:2</availability>

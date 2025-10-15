@@ -1139,6 +1139,10 @@
                 <roles>support</roles>
                 <availability>IS:4,Periphery:4,PIR:2</availability>
             </model>
+            <model name='(Mobile Canteen)'>
+                <roles>support</roles>
+                <availability>IS:6,Periphery:6,PIR:5+</availability>
+            </model>
         </chassis>
         <chassis name='Silverfin Coastal Cutter' unitType='Naval'>
             <availability>LA:6</availability>
