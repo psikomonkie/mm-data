@@ -1922,6 +1922,10 @@
                 <roles>support</roles>
                 <availability>IS:2,Periphery:3,PIR:1</availability>
             </model>
+            <model name='(Mobile Canteen)'>
+                <roles>support</roles>
+                <availability>IS:6,Periphery:6,PIR:5+</availability>
+            </model>
         </chassis>
         <chassis name='Shuttle' unitType='Small Craft'>
             <availability>IS:8,Periphery:8</availability>
