@@ -2449,7 +2449,9 @@
                 <path
                    style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    d="m 0,0 h -6.032 l -25.225,-1.644 -1.097,-1.645 1.646,-35.644 1.645,-1.646 c 0,0 7.677,-1.096 11.515,-1.645 1.097,-16.45 6.58,-27.417 6.58,-27.417 l -13.21,-2.539 -0.499,-0.752 -1.097,-15.903 1.097,-1.096 H 2.742 v 19.193 L 0,-42.224 Z"
-                   id="path56745" />
+                   id="armorLT"
+                   class="armor unitLocation"
+                   loc="LT" />
               </g>
               <g
                  id="g56747"
@@ -2457,9 +2459,7 @@
                 <path
                    style="fill:none;stroke:#000000;stroke-width:1.449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                    d="m 0,0 h -6.032 l -25.225,-1.644 -1.097,-1.645 1.646,-35.644 1.645,-1.646 c 0,0 7.677,-1.096 11.515,-1.645 1.097,-16.45 6.58,-27.417 6.58,-27.417 l -13.21,-2.539 -0.499,-0.752 -1.097,-15.903 1.097,-1.096 H 2.742 v 19.193 L 0,-42.224 Z"
-                   id="armorLT"
-                   class="armor unitLocation"
-                   loc="LT" />
+                   id="path56745" />
               </g>
               <g
                  id="g56751"
@@ -2671,9 +2671,7 @@
                 <path
                    style="fill:none;stroke:#000000;stroke-width:1.449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                    d="m 0,0 v -42.224 l 2.742,-28.514 v -18.644 l 1.645,-14.807 2.193,-2.193 h 21.387 l 2.193,2.193 1.645,14.807 v 18.644 l 2.742,28.514 V 0 Z"
-                   id="path214"
-                   class="armor unitLocation"
-                   loc="CT" />
+                   id="path214" />
               </g>
               <g
                  id="g56863"
@@ -2681,7 +2679,9 @@
                 <path
                    style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    d="m 0,0 c -8.841,0 -16.007,4.107 -16.007,18.644 h -4.557 v 12.064 l 1.667,1.645 5.407,0.454 c 1.547,3.974 3.724,7.219 6.302,9.353 l 0.435,3.902 1.75,1.645 H 5.001 L 6.752,46.062 7.187,42.16 c 2.576,-2.134 4.755,-5.379 6.302,-9.353 l 5.406,-0.454 1.668,-1.645 V 18.644 H 16.005 C 16.005,4.107 8.838,0 0,0"
-                   id="path56865" />
+                   id="armorHD"
+                   loc="HD"
+                   class="armor unitLocation" />
               </g>
               <g
                  id="g56867"
@@ -2689,9 +2689,7 @@
                 <path
                    style="fill:none;stroke:#000000;stroke-width:1.449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                    d="m 0,0 c -8.841,0 -16.007,4.107 -16.007,18.644 h -4.557 v 12.064 l 1.667,1.645 5.407,0.454 c 1.547,3.974 3.724,7.219 6.302,9.353 l 0.435,3.902 1.75,1.645 H 5.001 L 6.752,46.062 7.187,42.16 c 2.576,-2.134 4.755,-5.379 6.302,-9.353 l 5.406,-0.454 1.668,-1.645 V 18.644 H 16.005 C 16.005,4.107 8.838,0 0,0 Z"
-                   id="armorHD"
-                   loc="HD"
-                   class="armor unitLocation" />
+                   id="path56865" />
               </g>
               <g
                  id="g216"
