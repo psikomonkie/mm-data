@@ -566,6 +566,10 @@
         <useWeatherConditions>true</useWeatherConditions>
         <useLightConditions>true</useLightConditions>
         <usePlanetaryConditions>true</usePlanetaryConditions>
+        <moraleDecisiveVictoryEffect>2</moraleDecisiveVictoryEffect>
+        <moraleVictoryEffect>1</moraleVictoryEffect>
+        <moraleDefeatEffect>-2</moraleDefeatEffect>
+        <moraleDecisiveDefeatEffect>-3</moraleDecisiveDefeatEffect>
         <restrictPartsByMission>true</restrictPartsByMission>
         <assignPortraitOnRoleChange>false</assignPortraitOnRoleChange>
         <allowDuplicatePortraits>true</allowDuplicatePortraits>
