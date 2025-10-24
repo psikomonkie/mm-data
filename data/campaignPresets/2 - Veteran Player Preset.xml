@@ -506,6 +506,10 @@
         <sharesForAll>true</sharesForAll>
         <useTaxes>true</useTaxes>
         <taxesPercentage>30</taxesPercentage>
+        <rentedFacilitiesCostHospitalBeds>10900</rentedFacilitiesCostHospitalBeds>
+        <rentedFacilitiesCostKitchens>24550</rentedFacilitiesCostKitchens>
+        <rentedFacilitiesCostHoldingCells>21250</rentedFacilitiesCostHoldingCells>
+        <rentedFacilitiesCostRepairBays>100000</rentedFacilitiesCostRepairBays>
         <personnelMarketStyle>MEKHQ</personnelMarketStyle>
         <personnelMarketName>Disabled</personnelMarketName>
         <personnelMarketReportRefresh>true</personnelMarketReportRefresh>

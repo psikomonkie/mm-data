@@ -506,6 +506,10 @@
         <sharesForAll>false</sharesForAll>
         <useTaxes>false</useTaxes>
         <taxesPercentage>30</taxesPercentage>
+        <rentedFacilitiesCostHospitalBeds>0</rentedFacilitiesCostHospitalBeds>
+        <rentedFacilitiesCostKitchens>0</rentedFacilitiesCostKitchens>
+        <rentedFacilitiesCostHoldingCells>0</rentedFacilitiesCostHoldingCells>
+        <rentedFacilitiesCostRepairBays>0</rentedFacilitiesCostRepairBays>
         <personnelMarketStyle>CAMPAIGN_OPERATIONS_STRICT</personnelMarketStyle>
         <personnelMarketName>Disabled</personnelMarketName>
         <personnelMarketReportRefresh>true</personnelMarketReportRefresh>
