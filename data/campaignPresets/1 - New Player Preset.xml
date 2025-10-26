@@ -498,7 +498,7 @@
         <useRelationshiplessRandomProcreation>true</useRelationshiplessRandomProcreation>
         <useRandomClanPersonnelProcreation>false</useRandomClanPersonnelProcreation>
         <useRandomPrisonerProcreation>false</useRandomPrisonerProcreation>
-        <randomProcreationRelationshipDiceSize>500</randomProcreationRelationshipDiceSize>
+        <randomProcreationRelationshipDiceSize>150</randomProcreationRelationshipDiceSize>
         <randomProcreationRelationshiplessDiceSize>2000</randomProcreationRelationshiplessDiceSize>
         <useEducationModule>true</useEducationModule>
         <curriculumXpRate>3</curriculumXpRate>
