@@ -25,7 +25,7 @@ techbase:Clan
 era:3142
 rules level:2
 role:Skirmisher
-source:Rec Guide:ilClan #11
+source:RG11
 
 weaponquirk:stable_weapon:RA:2:CLStreakSRM6
 weaponquirk:stable_weapon:RA:4:CLProtoMechAC8

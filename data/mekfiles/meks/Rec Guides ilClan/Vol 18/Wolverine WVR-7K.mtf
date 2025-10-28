@@ -22,7 +22,7 @@ mul id:3575
 Config:Biped
 techbase:Inner Sphere
 era:3050
-source:Rec Guide:ilClan #18
+source:RG18
 rules level:2
 role:Skirmisher
 

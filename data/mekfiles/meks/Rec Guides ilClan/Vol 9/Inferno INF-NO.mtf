@@ -22,7 +22,7 @@ mul id:7715
 Config:Biped Omnimech
 techbase:Inner Sphere
 era:3146
-source:Rec Guide:ilClan #9
+source:RG09
 rules level:2
 role:Brawler
 
@@ -185,7 +185,7 @@ systemmanufacturer:CHASSIS:StarFrame Heavy Endo Steel
 systemmanufacturer:ENGINE:GM
 systemmode:ENGINE:300
 systemmanufacturer:ARMOR:Durallex Heavy
-systemmanufacturer:COMMUNICATIONS:Garret 
+systemmanufacturer:COMMUNICATIONS:Garret
 systemmode:COMMUNICATIONS:T-60 FastScan
 systemmanufacturer:TARGETING:Garret
 systemmode:TARGETING:F22c

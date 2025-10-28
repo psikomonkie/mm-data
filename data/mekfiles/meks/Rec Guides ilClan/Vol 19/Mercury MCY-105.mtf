@@ -22,7 +22,7 @@ mul id:8305
 Config:Biped
 techbase:Inner Sphere
 era:3092
-source:Rec Guide:ilClan #19
+source:RG19
 rules level:2
 role:Scout
 
@@ -177,7 +177,7 @@ Foot Actuator
 
 overview:The Mercury debuted for the first time in 2742, intended as a replacement for the aging Wasps and Stingers in use by the Star League Defense Force. Hailed as the beginning of a new age in 'Mech design, the Mercury was faster and better-armed than its competition without sacrificing armor protection.
 
-capabilities:It also featured an advancement in weapons installation, making use of a modular replacement system to allow for easier repairs. The ideal scout and raider, sales of the Mercury were limited exclusively to the SLDF. 
+capabilities:It also featured an advancement in weapons installation, making use of a modular replacement system to allow for easier repairs. The ideal scout and raider, sales of the Mercury were limited exclusively to the SLDF.
 
 deployment:Redesigned without MASC to avoid the circuitry-lock. Equipped with upgraded XL engine to increase base speed and allow it to function as a fast raider.
 

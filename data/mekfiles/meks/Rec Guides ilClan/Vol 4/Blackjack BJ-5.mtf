@@ -24,7 +24,7 @@ techbase:Inner Sphere
 era:3107
 rules level:2
 role:Sniper
-source:Rec Guide:ilClan #4
+source:RG04
 
 mass:45
 engine:180 Light Engine(IS)

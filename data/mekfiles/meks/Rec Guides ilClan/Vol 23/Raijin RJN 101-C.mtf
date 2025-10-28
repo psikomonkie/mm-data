@@ -22,7 +22,7 @@ mul id:2627
 Config:Biped
 techbase:Inner Sphere
 era:3062
-source:Rec Guide:ilClan #23
+source:RG23
 rules level:2
 role:Striker
 
@@ -178,9 +178,9 @@ Jump Jet
 -Empty-
 -Empty-
 
-overview:The Raijin is designed to be highly mobile and capable of engaging an enemy at a variety of ranges. 
+overview:The Raijin is designed to be highly mobile and capable of engaging an enemy at a variety of ranges.
 
-capabilities: The 'Mech's relatively light armor can be a liability if it is engaged in close combat or finds itself in a protracted engagement. 
+capabilities: The 'Mech's relatively light armor can be a liability if it is engaged in close combat or finds itself in a protracted engagement.
 
 deployment:A greatly improved version of the Raijin, the C model turns the 'Mech into a powerful close range brawler. This necessitated that the 'Mech's entire arsenal be stripped and replaced, as well as the addition of one and a half tons of armor. The 'Mech's primary weapon is a Large Pulse Laser, backed up by three ER Medium Lasers, and a Streak SRM-6. Finally, the 'Mech also incorporates an improved C3 system that allows it to provide targeting data to friendly units.
 

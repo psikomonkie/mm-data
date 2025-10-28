@@ -25,7 +25,7 @@ techbase:Clan
 era:3098
 rules level:3
 role:Missile Boat
-source:Rec Guide:ilClan #10
+source:RG10
 
 quirk:imp_target_med
 

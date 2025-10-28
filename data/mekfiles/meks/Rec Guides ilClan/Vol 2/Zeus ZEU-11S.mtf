@@ -22,7 +22,7 @@ mul id:7455
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3130
-source:Rec Guide:ilClan #2
+source:RG02
 rules level:2
 role:Sniper
 

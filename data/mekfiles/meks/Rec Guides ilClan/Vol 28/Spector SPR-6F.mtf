@@ -21,7 +21,7 @@ mul id:9375
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3119
-source:Rec Guide:ilClan #28 
+source:RG28
 rules level:3
 role:Striker
 
@@ -175,7 +175,7 @@ IS Endo Steel
 
 overview:The Spector was originally designed by Norse Technologies to be a lighter version of the Exterminator BattleMech, made to hunt down light command 'Mechs.
 capabilities:The Spector was originally designed to use the advanced Null-Signature system, able to hide the 'Mech's radar and heat signatures, and Chameleon Light Polarization Shield, capable of obscuring the BattleMech's appearance. However, these technologies were lost during the Succession Wars and have not yet been replicated. The current incarnation of the Spector, SPR-5F, does not carry a Null Signature System nor the Chameleon LPS because of this.
-deployment:No Information on this variant	
+deployment:No Information on this variant
 history:The first Spector rolled off the assembly line on June 6th, 2639, and following extensive testing the SLDF ordered 600 units, the first run of which were delivered in April of 2640. The Star League's enthusiasm for the Spector is due to the BattleMechs stealth capabilities, combining both Chameleon Light Polarization Shield and a Null-Signature system. All Spectors, and all reports on them, were believed lost with the fall of the Star League until 3048, when rumors spread that the mercenary units McCarron's Armored Cavalry and Storm's Metal Thunder were fielding Spectors, presumably recovered from an ancient cache, although neither admitted to fielding vintage Star League era 'Mechs.
 manufacturer:Norse Technologies
 primaryfactory:Loxley

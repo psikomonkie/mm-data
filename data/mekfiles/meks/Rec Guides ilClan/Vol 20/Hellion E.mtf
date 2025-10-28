@@ -22,7 +22,7 @@ mul id:5658
 Config:Biped Omnimech
 TechBase:Clan
 Era:3070
-source:Rec Guide:ilClan #20
+source:RG20
 Rules Level:2
 role:Striker
 
@@ -176,10 +176,10 @@ CLDoubleHeatSink
 -Empty-
 
 overview:The Hellion is a product of Clan Ice Hellion and their philosophy that espouses speed above all else. Based on the Mist Lynx, the Hellion is a fast OmniMech that has respectable firepower.
- 
+
 capabilities:This light 'Mech is rather difficult to kill, incorporating five and a half tons of Ferro-Fibrous armor. To save weight, the Hellion also uses an Endo Steel chassis. While it is not especially fast for its size, the Hellion does use MASC to allow for bursts of additional speed.
 
-deployment:This configuration carries four Flamers, two AP Gauss Rifles, and for heavier enemies it carries a pair of Heavy Medium Lasers and an SRM-4 launcher. An ECM Suite is mounted in the head. It also has enough jump jets to cover 150 meters in a jump. 
+deployment:This configuration carries four Flamers, two AP Gauss Rifles, and for heavier enemies it carries a pair of Heavy Medium Lasers and an SRM-4 launcher. An ECM Suite is mounted in the head. It also has enough jump jets to cover 150 meters in a jump.
 
 manufacturer:Hector MechWorks Facility Alpha,Prosoma War Works,Svarstaad Industriplex Alpha
 primaryfactory:Hector,Valencia,Svarstaad

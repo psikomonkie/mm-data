@@ -22,7 +22,7 @@ mul id:8390
 Config:Biped Omnimech
 techbase:Clan
 era:3140
-source:Rec Guide:ilClan #22
+source:RG22
 rules level:2
 role:Striker
 
@@ -174,7 +174,7 @@ CLDoubleHeatSink
 
 overview:The Battle Cobra was already in the prototype stages when Clan Steel Viper introduced their first OmniMech, the Crossbow.
 
-capabilities:The Battle Cobra makes use of Endo Steel and Ferro-Fibrous technologies, but uses a standard Fusion Engine for increased durability. 
+capabilities:The Battle Cobra makes use of Endo Steel and Ferro-Fibrous technologies, but uses a standard Fusion Engine for increased durability.
 
 deployment:Unknown
 

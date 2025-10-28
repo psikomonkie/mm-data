@@ -22,7 +22,7 @@ mul id:8246
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3138
-source:Rec Guide:ilClan #17
+source:RG17
 rules level:2
 role:Brawler
 
@@ -184,7 +184,7 @@ deployment:This Dark Age variant uses a Clan-spec XL engine to reach a top speed
 
 history: The Hegemony soldiered on though, producing five thousand Banshees in a decade before its poor combat performance finally forced them to stop production in 2455 and the 'Mech was relegated to training and militia units for the next few centuries. Even during the Succession Wars the 'Mech's poor reputation meant many commanders saw it as a liability rather than an asset; unless they were fighting on a backwater Periphery world or as part of a poorly-equipped outfit, most Banshees were placed in second-line reserves to provide fire support or fulfill the role of brawlers so that better-armed 'Mechs need not engage in hand-to-hand combat. In this way fully a third of the original Banshee production run remained operational by the dawn of the thirty-first century and could be found throughout the Inner Sphere and Periphery, with the lion's share residing within the Lyran Commonwealth. Though a few attempts had been made over the years to improve the Banshee, Defiance Industries was the first to produce a variant which markedly improved on the original and was suggested by many of its original critics. With help from the Federated Suns and access to blueprints from the original Hesperus II factories, the BNC-3S proved to be such a success the Lyrans began fielding them in front line units, surprising their enemies who ignored them to focus on "real" threats with thoroughly unexpected firepower. Under the Federated Commonwealth improvements would continue to be made, though not at the same priority level as other projects, and the much-improved BNC-5S was active in time to meet the Clan Invasion.
 
-manufacturer:Defiance Manufacturing Annex 
+manufacturer:Defiance Manufacturing Annex
 primaryfactory:Kwangjong-ni
 
 systemmanufacturer:CHASSIS:Foundation

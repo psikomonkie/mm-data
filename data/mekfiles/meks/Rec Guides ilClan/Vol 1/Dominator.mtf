@@ -22,7 +22,7 @@ mul id:7434
 Config:Biped
 techbase:Clan
 era:3148
-source:Rec Guide:ilClan #1
+source:RG01
 rules level:2
 role:Skirmisher
 
@@ -173,7 +173,7 @@ CLDoubleHeatSink
 -Empty-
 -Empty-
 
-overview:The Khan of Clan Wolf Alaric Ward wanted a 'Mech to "Make the Republic tremble behind their Wall, chase the Jade Falcons from the skies, and dominate the pilots of the Inner Sphere under the will of Clan Wolf." 
+overview:The Khan of Clan Wolf Alaric Ward wanted a 'Mech to "Make the Republic tremble behind their Wall, chase the Jade Falcons from the skies, and dominate the pilots of the Inner Sphere under the will of Clan Wolf."
 
 capabilities:This new 'Mech was to be highly mobile, heavily armored, and be able to outrun anything the 'Mech could not outgun. Additionally the 'Mech had to be a capable brawler since Inner Sphere pilots were often engaging Clan 'Mechs in close quarters hand-to-hand combat.
 

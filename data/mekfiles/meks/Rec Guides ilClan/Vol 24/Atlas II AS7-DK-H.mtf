@@ -22,7 +22,7 @@ mul id:8459
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3139
-source:Rec Guide:ilClan #24
+source:RG24
 rules level:2
 role:Brawler
 
@@ -49,7 +49,7 @@ LA armor:33
 RA armor:33
 LT armor:31
 RT armor:31
-CT armor:42	
+CT armor:42
 HD armor:9
 LL armor:41
 RL armor:41

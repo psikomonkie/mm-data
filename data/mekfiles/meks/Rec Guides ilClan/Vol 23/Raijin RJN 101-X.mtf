@@ -22,7 +22,7 @@ mul id:8415
 Config:Biped
 techbase:Inner Sphere
 era:3052
-source:Rec Guide:ilClan #23
+source:RG23
 rules level:2
 role:Striker
 
@@ -181,9 +181,9 @@ Jump Jet
 -Empty-
 -Empty-
 
-overview:The Raijin is designed to be highly mobile and capable of engaging an enemy at a variety of ranges. 
+overview:The Raijin is designed to be highly mobile and capable of engaging an enemy at a variety of ranges.
 
-capabilities: The 'Mech's relatively light armor can be a liability if it is engaged in close combat or finds itself in a protracted engagement. 
+capabilities: The 'Mech's relatively light armor can be a liability if it is engaged in close combat or finds itself in a protracted engagement.
 
 deployment:Unknown
 

@@ -25,7 +25,7 @@ techbase:Clan
 era:3142
 rules level:4
 role:Missile Boat
-source:Rec Guide:ilClan #5
+source:RG05
 
 quirk:imp_target_med
 quirk:weak_head_1
@@ -186,7 +186,7 @@ deployment:First introduced in 2945, the Timber Wolf was designed by Clan Wolf a
 history:Vaguely resembling a cross-over between the MAD (Marauder) and CAT (Catapult) series, the Timber Wolf was tagged with the Inner Sphere reporting name Mad Cat on first contact. (The targeting computer on Phelan Kell's Wolfhound switched between MAD and CAT when trying to identify it; upon analyzing the data recording from Kell's 'Mech, Precentor Martial Anastasius Focht later officially designated it "Mad Cat".
 
 manufacturer:Wolf Clan Site #1, Wolf Clan Site #2, W-7 Facilities, Kallon Weapon Industries
-primaryfactory:Arc-Royal, Strana Mechty, Weingarten, Thermopolis 
+primaryfactory:Arc-Royal, Strana Mechty, Weingarten, Thermopolis
 systemmanufacturer:CHASSIS:Type W3 Endo-steel
 systemmanufacturer:ENGINE:Starfire 375 XL
 systemmanufacturer:ARMOR:Composite A-2 Ferro-Fibrous

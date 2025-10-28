@@ -22,7 +22,7 @@ mul id:9405
 Config:Biped
 techbase:Inner Sphere
 era:2820
-source:Rec Guide:ilClan #25
+source:RG25
 rules level:1
 role:Scout
 

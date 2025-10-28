@@ -22,7 +22,7 @@ mul id:7439
 Config:Biped
 techbase:Inner Sphere
 era:3146
-source:Rec Guide:ilClan #1
+source:RG01
 rules level:2
 role:Striker
 
@@ -171,7 +171,7 @@ IS Endo Steel
 -Empty-
 -Empty-
 
-overview:Created for the Lyran Commonwealth Armed Forces and one of the first 'Mechs ever designed for reconnaissance, the Commando was much lighter and faster than its precursors, though it still utilized primitive BattleMech technology. 
+overview:Created for the Lyran Commonwealth Armed Forces and one of the first 'Mechs ever designed for reconnaissance, the Commando was much lighter and faster than its precursors, though it still utilized primitive BattleMech technology.
 
 capabilities:With only four tons of armor to protect itself, the Commando is not meant to participate in a stand-up fight against heavier enemies, but it excels at hit-and-run tactics and as a scout hunter.
 

@@ -24,7 +24,7 @@ techbase:Inner Sphere
 era:3138
 rules level:3
 role:Sniper
-source:Rec Guide:ilClan #5
+source:RG05
 
 
 
@@ -186,7 +186,7 @@ manufacturer:Independence Weaponry
 primaryfactory:Quentin
 systemmanufacturer:CHASSIS:GM Marauder
 systemmanufacturer:ENGINE:Vlar 300 XL
-systemmanufacturer:ARMOR:Durallex Ballistic-Reinforced	
+systemmanufacturer:ARMOR:Durallex Ballistic-Reinforced
 systemmanufacturer:JUMPJET:Chilton 600
 systemmanufacturer:COMMUNICATIONS:Dalban Micronics
 systemmanufacturer:TARGETING:Dalban Hi-Rez II

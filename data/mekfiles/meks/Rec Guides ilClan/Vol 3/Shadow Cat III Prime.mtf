@@ -22,7 +22,7 @@ mul id:7491
 Config:Biped Omnimech
 techbase:Clan
 era:3111
-source:Rec Guide:ilClan #3
+source:RG03
 rules level:2
 role:Striker
 
@@ -171,7 +171,7 @@ Foot Actuator
 -Empty-
 
 overview:The Shadow Cat III was born from the Shadow Cat, after Clan Nova Cat's Touman and facilities were heavily damaged during the Second Combine-Dominion War.
- 
+
 capabilities:This expensive OmniMech makes use of weight-saving technologies in the form of an Endo Steel internal structure, an XL Engine, and eight tons of Ferro-Fibrous armor. The Shadow Cat III employs more pod space than the Shadow Cat at the expense of jump jets, but keeps the Myomer Accelerated Signal Circuitry that enables it to move up to 130 km/h in bursts.
 
 deployment:The primary configuration of the Shadow Cat III wields a Gauss Rifle allowing it to handily defeat smaller opponents, often before they can get within range. A pair of Medium Pulse Lasers back up the rifle.

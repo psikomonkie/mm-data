@@ -23,7 +23,7 @@ mul id:7457
 Config:Biped Omnimech
 techbase:Clan
 era:3086
-source:Rec Guide:ilClan #2
+source:RG02
 rules level:4
 role:Striker
 
@@ -171,7 +171,7 @@ Jump Jet (OMNIPOD)
 
 overview:The Mongrel received its baptism of fire during the Battle of Tukayyid. There, it was commonly seen leading light Stars, especially on deep reconnaissance and raiding missions. Its ammo-efficient weapons allowed it to range far afield and helped simplify resupply, while its speed allowed it to dictate its range of engagement and outmaneuver all but the fastest of opponents.
 
-capabilities:The Grendel M is a sniper configuration, carrying a Rotary AC/2 supplied with a single ton of reloads in a CASE II protected ammo bin, supported by a left torso mounted ER Large Laser. 
+capabilities:The Grendel M is a sniper configuration, carrying a Rotary AC/2 supplied with a single ton of reloads in a CASE II protected ammo bin, supported by a left torso mounted ER Large Laser.
 
 deployment:The Grendel features a powerful 315-rated engine, enabling it to move at a fleet 119 km/h, and enough jump jets fixed on the chassis to propel it up to 210 meters at a leap. The Sharks spared no expense in weight-saving materials, making use of an XL Engine, Endo Steel structure, and seven and a half tons of Ferro-Fibrous armor. The incredible speed of the Grendel is not terribly helpful in most zellbrigen duels, but it is effective in large-scale actions especially against Inner Sphere foes of similar weight hard pressed to counter its speed or firepower. The Grendel is also popular with technicians. While many OmniMechs are often "hangar queens," the Grendel can go long periods without maintenance and still remain combat effective.
 

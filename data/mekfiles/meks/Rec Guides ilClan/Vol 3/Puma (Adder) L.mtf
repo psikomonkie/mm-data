@@ -23,7 +23,7 @@ mul id:7482
 Config:Biped Omnimech
 techbase:Clan
 era:3147
-source:Rec Guide:ilClan #3
+source:RG03
 rules level:2
 role:Striker
 
@@ -176,7 +176,7 @@ Clan Endo Steel
 
 overview:Codenamed Puma by Inner Sphere forces who first engaged it, the Adder is a light Clan OmniMech that serves as a direct or an indirect fire-support unit in most of its configurations. The Adder is capable of carrying a relatively heavy weapons payload that can surprise an unsuspecting enemy, even at extreme ranges.
 
-capabilities:The Adder frees up as much weight as possible by using a weight-saving Endo Steel chassis and carrying a lightweight 210 XL Engine, which gives the 'Mech a top speed of 97.2 km/h. The Adder carries six tons of Ferro-Fibrous armor for protection from enemy fire. The effort to save weight has resulted in a 'Mech that dedicates almost half of its weight (some sixteen tons) to pod space. The Adder has a Flamer in a fixed mount which cannot be removed from the 'Mech. 	
+capabilities:The Adder frees up as much weight as possible by using a weight-saving Endo Steel chassis and carrying a lightweight 210 XL Engine, which gives the 'Mech a top speed of 97.2 km/h. The Adder carries six tons of Ferro-Fibrous armor for protection from enemy fire. The effort to save weight has resulted in a 'Mech that dedicates almost half of its weight (some sixteen tons) to pod space. The Adder has a Flamer in a fixed mount which cannot be removed from the 'Mech.
 
 deployment:The L configuration is apparently a light striker variant. Each arm carries a pair of Streak LRM-5s and a ton of ammunition. The side torsos carry a single ER Medium Laser, while an ECM Suite provides electronic warfare support. For additional movement, six jump jets are installed for a 180 meter jump range.
 

@@ -23,7 +23,7 @@ mul id:7442
 Config:Biped Omnimech
 techbase:Clan
 era:3058
-source:Rec Guide:ilClan #1
+source:RG01
 rules level:2
 role:Scout
 
@@ -175,7 +175,7 @@ Jump Jet (OMNIPOD)
 -Empty-
 -Empty-
 
-overview:The Hellbringer is a very widespread design developed by Clan Hell's Horses. However, due to its poor armor, the Hellbringer is often passed over for more robust OmniMechs. 
+overview:The Hellbringer is a very widespread design developed by Clan Hell's Horses. However, due to its poor armor, the Hellbringer is often passed over for more robust OmniMechs.
 
 capabilities:A highly mobile scout unit, the Loki J is carries an Ultra AC/5 and ER PPC in its arms supported by twin ER Medium Lasers in each torso and a Streak SRM-4 rack. Fitted with Jump Jets, the J also mounts an Anti-Missile System and an Active Probe, each ammo-dependant weapon carrying a single ton of reloads.
 

@@ -23,7 +23,7 @@ mul id:7441
 Config:Biped Omnimech
 techbase:Clan
 era:3142
-source:Rec Guide:ilClan #1
+source:RG01
 rules level:2
 role:Sniper
 
@@ -176,7 +176,7 @@ CLDoubleHeatSink (OMNIPOD)
 -Empty-
 -Empty-
 
-overview:The Hellbringer is a very widespread design developed by Clan Hell's Horses. However, due to its poor armor, the Hellbringer is often passed over for more robust OmniMechs. 
+overview:The Hellbringer is a very widespread design developed by Clan Hell's Horses. However, due to its poor armor, the Hellbringer is often passed over for more robust OmniMechs.
 
 capabilities:A Dark Ages refinement of the Prime, the T configuration mounts an ER PPC in each arm supported by a shoulder mounted ATM-6, a trio of ER Medium Lasers and twin Anti-Personnel Gauss Rifles. Protected by an Anti-Missile System and CASE II for the two tons of ATM missiles and single ton each of AP Gauss and AMS ammo, the remaining weight is devoted to double heat sinks.
 

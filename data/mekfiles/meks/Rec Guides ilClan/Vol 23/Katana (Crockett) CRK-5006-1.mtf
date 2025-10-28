@@ -22,7 +22,7 @@ mul id:8428
 Config:Biped
 techbase:Inner Sphere
 era:3108
-source:Rec Guide:ilClan #23
+source:RG23
 rules level:2
 role:Skirmisher
 
@@ -176,7 +176,7 @@ Improved Jump Jet
 -Empty-
 
 overview:The Katana began its existence when the Draconis Combine was given several downgraded Crockett BattleMechs by ComStar as part of Operation Rosebud.
- 
+
 capabilities:The Katana shares many of the same features as the Crockett, right down to the serial number. Just like the Crockett, the Katana mounts the same fusion engine and jump jets for similar ground speed and leaping ability. It is also protected by the same twelve and a half tons of armor and utilizes the same electronic systems. Unlike the original 'Mech, the Katana makes do with twenty standard heat sinks.
 
 deployment:Unknown

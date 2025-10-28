@@ -23,7 +23,7 @@ mul id:7569
 Config:Biped
 techbase:Clan
 era:3053
-source:Rec Guide:ilClan #8
+source:RG08
 rules level:2
 role:Striker
 
@@ -174,9 +174,9 @@ CLDoubleHeatSink
 -Empty-
 -Empty-
 
-overview:The Howler is a potent missile boat for its size. Meant to provide fire support to light garrison Stars.		
+overview:The Howler is a potent missile boat for its size. Meant to provide fire support to light garrison Stars.
 
-capabilities:It is relatively fast for a 'Mech its size, topping out at 119 km/h. Its good speed and armament is made possible by the use of an endo steel structure and three tons of ferro-fibrous armor.	
+capabilities:It is relatively fast for a 'Mech its size, topping out at 119 km/h. Its good speed and armament is made possible by the use of an endo steel structure and three tons of ferro-fibrous armor.
 
 deployment:The standard Howler chassis has had its LRM-5s removed and replaced with six ER medium lasers, fitted in triple mounts in each side torso.
 

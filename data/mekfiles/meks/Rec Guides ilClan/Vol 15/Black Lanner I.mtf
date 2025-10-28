@@ -22,7 +22,7 @@ mul id:8187
 Config:Biped Omnimech
 techbase:Mixed (Clan Chassis)
 era:3143
-source:Rec Guide:ilClan #15
+source:RG15
 rules level:2
 role:Skirmisher
 
@@ -175,7 +175,7 @@ Clan Ferro-Fibrous
 
 overview:Newly developed by Clan Jade Falcon for the Clan Invasion of the Inner Sphere, the Black Lanner is a fast medium OmniMech that can take on a variety of roles. Intended as a front-line 'Mech, the Black Lanner makes use of all weight-saving technology available to the Clan Jade Falcon scientists who designed it, including an XL Engine, Endo Steel, and eight tons of Ferro-Fibrous armor. The Black Lanner also includes a MASC system on the base chassis that enables it to run up to 151 km/h in bursts, allowing it to outrun many 'Mechs half its size. The design sacrifices pod space for that speed however, with an engine almost half the Black Lanner's weight leaving a mere thirteen tons for offensive weaponry.
 
-deployment:This mixed tech configuration carries a Targeting Computer to make best use of the weapons. The right arm carries a Medium Variable Speed Pulse Laser while the left arm carries a pair of ER Medium Lasers. Three Heavy Machine Guns and a half ton of ammo is carried in the right torso. The left torso carries a Streak SRM-4 and a ton of ammunition. 
+deployment:This mixed tech configuration carries a Targeting Computer to make best use of the weapons. The right arm carries a Medium Variable Speed Pulse Laser while the left arm carries a pair of ER Medium Lasers. Three Heavy Machine Guns and a half ton of ammo is carried in the right torso. The left torso carries a Streak SRM-4 and a ton of ammunition.
 
 capabilities:Intended as a front-line 'Mech, the Black Lanner makes use of all weight-saving technology available to the Clan Jade Falcon scientists who designed it, including an XL Engine, Endo Steel, and eight tons of Ferro-Fibrous armor. The Black Lanner also includes a MASC system on the base chassis that enables it to run up to 151 km/h in bursts, allowing it to outrun many 'Mechs half its size. The design sacrifices pod space for that speed however, with an engine almost half the Black Lanner's weight leaving a mere thirteen tons for offensive weaponry.
 

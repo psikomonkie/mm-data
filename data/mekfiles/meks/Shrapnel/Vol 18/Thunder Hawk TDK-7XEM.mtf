@@ -22,7 +22,7 @@ model:TDK-7XEM
 Config:Biped
 techbase:Inner Sphere
 era:3138
-source:Rec Guide:ilClan #33
+source:RG33
 rules level:3
 role:Sniper
 

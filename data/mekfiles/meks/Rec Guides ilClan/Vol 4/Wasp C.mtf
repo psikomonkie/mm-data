@@ -24,7 +24,7 @@ techbase:Mixed (IS Chassis)
 era:3143
 rules level:3
 role:Sniper
-source:Rec Guide:ilClan #4
+source:RG04
 
 mass:20
 engine:120 Fusion Engine(IS)

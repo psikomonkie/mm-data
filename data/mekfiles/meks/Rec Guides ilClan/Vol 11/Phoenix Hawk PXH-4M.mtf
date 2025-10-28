@@ -15,7 +15,7 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-chassis:Phoenix Hawk 
+chassis:Phoenix Hawk
 model:PXH-4M
 mul id:7750
 
@@ -24,7 +24,7 @@ techbase:Inner Sphere
 era:3087
 rules level:2
 role:Striker
-source:Rec Guide:ilClan #11
+source:RG11
 
 
 

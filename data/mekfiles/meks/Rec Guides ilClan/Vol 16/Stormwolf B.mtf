@@ -22,7 +22,7 @@ mul id:8206
 Config:Biped Omnimech
 techbase:Clan
 era:3149
-source:Rec Guide:ilClan #16
+source:RG16
 rules level:3
 role:Striker
 
@@ -130,7 +130,7 @@ Head:
 Life Support
 Sensors
 Cockpit
-CLLaserAntiMissileSystem 
+CLLaserAntiMissileSystem
 Sensors
 Life Support
 -Empty-

@@ -24,7 +24,7 @@ techbase:Mixed (Clan Chassis)
 era:3142
 rules level:2
 role:Brawler
-Source:Rec Guide:ilClan #32
+Source:RG32
 mul id:9486
 
 quirk:rugged_1
@@ -182,7 +182,7 @@ capabilities:Based on the Kingfisher, the Blood Asp adds an XL engine, but space
 
 deployment:No Information on this variant
 
-history:Created by Clan Star Adder as an insult to their enemies, Clan Blood Spirit, the Blood Asp has a large amount of available pod space for its size. 	
+history:Created by Clan Star Adder as an insult to their enemies, Clan Blood Spirit, the Blood Asp has a large amount of available pod space for its size.
 
 manufacturer:Snow Raven Industrial Complex Alpha
 primaryfactory:Dante

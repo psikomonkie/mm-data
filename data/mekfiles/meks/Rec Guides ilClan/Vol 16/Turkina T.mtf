@@ -22,7 +22,7 @@ mul id:8212
 Config:Biped Omnimech
 techbase:Clan
 era:3142
-source:Rec Guide:ilClan #16
+source:RG16
 rules level:2
 role:Sniper
 
@@ -174,7 +174,7 @@ Foot Actuator
 
 overview:The Turkina is a powerful OmniMech that was first seen in the Turkina Keshik at the Battle of Tukayyid, and entered general service with Clan Jade Falcon following the end of the Refusal War. In a design oddity, the Turkina mounts enough jump jets to vault 90 meters hardwired onto the frame, rather than using them in modular pods. While this simplified repair, it also uses tonnage that could be devoted to other systems when a mission does not call for jumping. Designers also included fifteen double heat sinks, four more than could be fit into the engine, so they are fixed in the torso. The Turkina has 42 tons available for modular pods.
 
-capabilities:The left and right torso carry a Streak LRM-15 and ton of ammunition. The left arm carries a pair of ProtoMech AC/8s and two tons of AC ammunition, while the right arm carries a pair of ER PPCs.  
+capabilities:The left and right torso carry a Streak LRM-15 and ton of ammunition. The left arm carries a pair of ProtoMech AC/8s and two tons of AC ammunition, while the right arm carries a pair of ER PPCs.
 
 history:The Turkina is named after Turkina, the first Jade Falcon to be tamed, who inspired the leaders of Clan Jade Falcon in its early days. The name of the Turkina Keshik is also derived from this bird.
 manufacturer:Complex Beta, Olivetti Weapons

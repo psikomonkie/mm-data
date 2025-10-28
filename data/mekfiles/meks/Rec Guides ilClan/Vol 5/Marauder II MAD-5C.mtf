@@ -22,7 +22,7 @@ mul id:2061
 Config:Biped
 techbase:Inner Sphere
 era:3052
-source:Rec Guide:ilClan #5
+source:RG05
 rules level:2
 role:Sniper
 

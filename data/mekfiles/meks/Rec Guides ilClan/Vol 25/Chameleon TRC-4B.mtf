@@ -21,7 +21,7 @@ mul id:546
 Config:Biped
 techbase:Inner Sphere
 era:2510
-source:Rec Guide:ilClan #25
+source:RG25
 rules level:1
 role:Scout
 
@@ -176,7 +176,7 @@ Jump Jet
 -Empty-
 -Empty-
 
-overview:Since the Terran Hegemony introduced it in 2510, the Chameleon has been the premiere training BattleMech for light- and medium-BattleMech MechWarriors. 
+overview:Since the Terran Hegemony introduced it in 2510, the Chameleon has been the premiere training BattleMech for light- and medium-BattleMech MechWarriors.
 capabilities:The Chameleon was designed to help a new MechWarrior master the skills of maneuvering and heat management, with a top speed of 97.2 km/h and a jumping distance of 180 meters. The 'Mech also had an almost all energy weapons loadout, but cooled only by 10 single heat sinks; this paucity of freezers forces MechWarriors to concentrate on the 'Mech's heat levels.
 
 deployment:Also referred to as the CHM-3 Chameleon Training Scout, this formerly common but now obscure training 'Mech was armed with one large laser, two medium lasers, four small lasers, and two machine guns. With only 10 single heat sink this 'Mech was quite prone to overheating, forcing trainees to carefully manage their heat. As manufactured, this 'Mech is perhaps the only Level 1 official, if not canonical, design with 3 critical spaces of equipment installed in the center torso, two machine guns and half a ton of ammo, in violation of the design rules released with it. Additionally, as released, a quarter ton of armor remained unallocated.

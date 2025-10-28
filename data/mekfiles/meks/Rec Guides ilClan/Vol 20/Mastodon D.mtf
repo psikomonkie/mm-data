@@ -22,7 +22,7 @@ mul id:8346
 Config:Biped Omnimech
 techbase:Clan
 era:3148
-source:Rec Guide:ilClan #20
+source:RG20
 rules level:2
 role:Missile Boat
 
@@ -178,7 +178,7 @@ Clan Ferro-Fibrous
 
 manufacturer:Jötunn BattleWorx
 primaryfactory:Goito
-notes:Then we will fight in the shade. 
+notes:Then we will fight in the shade.
 systemmanufacturer:CHASSIS:Type 56-95C Modified Reinforced
 systemmanufacturer:ENGINE:RUFM XL 285
 systemmanufacturer:ARMOR:IceSheet Ferro-Fibrous

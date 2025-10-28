@@ -22,7 +22,7 @@ mul id:8257
 Config:Biped
 techbase:Inner Sphere
 era:3143
-source:Rec Guide:ilClan #18
+source:RG18
 rules level:2
 role:Sniper
 
@@ -182,7 +182,7 @@ capabilities:The autocannon, missile system and laser found on most Wolverines a
 
 history:A widespread part of every major military, the Wolverine has manufacturing plants scattered throughout the entire Inner Sphere. While certain states-notably the Free Worlds League-have larger numbers of the design, only the Capellans began facing a shortage of the Wolverine after the loss of their Nanking facilities.
 
-manufacturer:Gibson Federated BattleMechs (A Division of Free Worlds Defense Industries),Kallon Weapon Industries 
+manufacturer:Gibson Federated BattleMechs (A Division of Free Worlds Defense Industries),Kallon Weapon Industries
 primaryfactory:Gibson,Thermopolis
 systemmanufacturer:CHASSIS:Crucis-A
 systemmanufacturer:ENGINE:Core Tek 275

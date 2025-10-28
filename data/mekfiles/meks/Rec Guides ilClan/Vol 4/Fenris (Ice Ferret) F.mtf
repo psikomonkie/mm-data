@@ -25,7 +25,7 @@ techbase:Clan
 era:3084
 rules level:4
 role:Sniper
-source:Rec Guide:ilClan #4
+source:RG04
 
 quirk:imp_sensors
 
@@ -171,7 +171,7 @@ Clan Endo Steel
 
 overview:A powerful medium scout and recon 'Mech, the Ice Ferret was regarded as something of a foreign concept when it was first encountered by Inner Sphere forces. Referred to as the Fenris by Inner Sphere forces, the Ice Ferret is a very capable medium scout OmniMech, which is well armored and fast, and can be configured as a strike/headhunter or as a fire-support 'Mech.
 
-capabilities:Providing direct-fire support the Fenris F carries a single ER Large Laser in each arm, while a Watchdog CEWS provides electronic support. 
+capabilities:Providing direct-fire support the Fenris F carries a single ER Large Laser in each arm, while a Watchdog CEWS provides electronic support.
 
 deployment:The Ice Ferret is built on a lightweight Endo Steel chassis that saves weight and is powered by a massive 360 XL engine that gives the Ice Ferret a top speed of 129.6 km/h and also accounts for one third of the 'Mech's total weight. The Ice Ferret has twelve double heat sinks mounted on the chassis and is protected by seven and a half tons of Ferro-Fibrous armor, giving the 'Mech almost the maximum amount of armor protection for its weight.
 
