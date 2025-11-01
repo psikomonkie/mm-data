@@ -132,7 +132,7 @@ IS Streak SRM 4 Ammo:OMNI
 </Fuselage Equipment>
 
 <source>
-TRO: 3145 Lyran Commonwealth
+TR:3145:LC
 </source>
 
 <tonnage>

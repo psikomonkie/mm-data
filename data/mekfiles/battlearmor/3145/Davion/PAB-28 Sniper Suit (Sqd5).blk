@@ -70,7 +70,7 @@ InfantryAssaultRifle:RA:APM
 </Squad Equipment>
 
 <source>
-TRO: 3145 Federated Suns
+TR:3145:FS
 </source>
 
 <chassis>

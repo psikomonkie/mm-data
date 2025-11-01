@@ -111,7 +111,7 @@ BA-Compact Narc Ammo:RA:Shots4#
 </Trooper 5 Equipment>
 
 <source>
-TRO: 3145 Draconis Combine
+TR:3145:DC
 </source>
 
 <chassis>

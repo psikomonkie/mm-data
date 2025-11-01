@@ -80,7 +80,7 @@ BA-SRM2 Ammo:Body:Shots1#
 </Squad Equipment>
 
 <source>
-TRO: 3145 Free Worlds League
+TR:3145:FWL
 </source>
 
 <chassis>

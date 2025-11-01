@@ -75,7 +75,7 @@ BA-SRM4 Ammo:TU:Shots4#
 </Squad Equipment>
 
 <source>
-TRO: 3145 Capellan Confederation
+TR:3145:CC
 </source>
 
 <chassis>

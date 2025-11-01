@@ -139,7 +139,7 @@ CLArtemisV:OMNI
 </Front Turret Equipment>
 
 <source>
-TRO: 3145 Lyran Commonwealth
+TR:3145:LC
 </source>
 
 <tonnage>

@@ -119,7 +119,7 @@ ISStreakSRM4:OMNI
 </Turret Equipment>
 
 <source>
-TRO: 3145 Federated Suns
+TR:3145:FS
 </source>
 
 <tonnage>

@@ -104,7 +104,7 @@ ISBAMineDispenser:LA
 </Trooper 6 Equipment>
 
 <source>
-TRO: 3145 Lyran Commonwealth
+TR:3145:LC
 </source>
 
 <chassis>

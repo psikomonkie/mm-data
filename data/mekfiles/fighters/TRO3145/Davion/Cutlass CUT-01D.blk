@@ -132,7 +132,7 @@ IS Gauss Ammo
 </Fuselage Equipment>
 
 <source>
-TRO: 3145 Federated Suns
+TR:3145:FS
 </source>
 
 <tonnage>
@@ -168,7 +168,7 @@ TARGETING:Rander TA1000 with Beagle Active Probe
 </systemManufacturers>
 
 <source>
-TRO: 3145 Federated Suns
+TR:3145:FS
 </source>
 
 <quirks>

@@ -94,7 +94,7 @@ CLBAMedium Recoilless Rifle:RA
 </Squad Equipment>
 
 <source>
-TRO: 3145 Draconis Combine
+TR:3145:DC
 </source>
 
 <chassis>

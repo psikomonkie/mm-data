@@ -223,7 +223,7 @@ ISDroneCarrierControlSystem:SIZE:6
 </structural_integrity>
 
 <source>
-TRO: 3145 Republic of the Sphere
+TR:3145:RotS
 </source>
 
 <tonnage>

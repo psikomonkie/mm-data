@@ -110,7 +110,7 @@ ISAntiMissileSystem
 </Turret Equipment>
 
 <source>
-TRO: 3145 Draconis Combine
+TR:3145:DC
 </source>
 
 <tonnage>
