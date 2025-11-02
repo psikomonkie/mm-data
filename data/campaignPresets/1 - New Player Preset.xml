@@ -2631,7 +2631,7 @@
             </skillPrereq>
         </ability>
         <ability>
-            <displayName>Exceptional Attribute - Chrisma (ATOW)</displayName>
+            <displayName>Exceptional Attribute - Charisma (ATOW)</displayName>
             <lookupName>exceptional_attribute_charisma</lookupName>
             <desc>Characters can only increase their Attributes up to a maximum determined by their Phenotype.
 
