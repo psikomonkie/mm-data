@@ -871,7 +871,7 @@ They also gain Fatigue based on the campaign options fatigue rate (default 1).]]
     </ability>
     <ability>
         <lookupName>mutation_freakish_strength</lookupName>
-        <displayName>Freakish Strength (ATOW:Companion)</displayName>
+        <displayName>Mutation - Freakish Strength (ATOW:Companion)</displayName>
         <desc><![CDATA[Increases Strength Attribute by 2 and maximum Strength by 1. Neither increase may take this Attribute above 10.
 
 Increases the target number of all Charisma-based skills by 2 due to inhumanly shaped bulk.]]></desc>
@@ -883,16 +883,16 @@ Increases the target number of all Charisma-based skills by 2 due to inhumanly s
     </ability>
     <ability>
         <lookupName>mutation_exceptional_immune_system</lookupName>
-        <displayName>Exceptional Immune System (ATOW:Companion)</displayName>
+        <displayName>Mutation - Exceptional Immune System (ATOW:Companion)</displayName>
         <desc><![CDATA[Recover from injuries at twice the normal rate (Advanced Medical only).]]></desc>
         <xpCost>200</xpCost>
-        <originOnly>false</originOnly>
+        <originOnly>true</originOnly>
         <weight>1</weight>
         <skillPrereq />
     </ability>
     <ability>
         <lookupName>mutation_exotic_appearance</lookupName>
-        <displayName>Exotic Yet Pleasing Appearance (ATOW:Companion)</displayName>
+        <displayName>Mutation - Exotic Yet Pleasing Appearance (ATOW:Companion)</displayName>
         <desc><![CDATA[Increases Charisma Attribute by 1 (may not take it above 10).]]></desc>
         <xpCost>100</xpCost>
         <originOnly>true</originOnly>
@@ -901,7 +901,7 @@ Increases the target number of all Charisma-based skills by 2 due to inhumanly s
     </ability>
     <ability>
         <lookupName>mutation_facial_hair</lookupName>
-        <displayName>Extremely Excess Facial Hair (ATOW:Companion)</displayName>
+        <displayName>Mutation - Extremely Excess Facial Hair (ATOW:Companion)</displayName>
         <desc><![CDATA[Decreases Charisma Attribute by 1 (may not take it below 1).]]></desc>
         <xpCost>-100</xpCost>
         <originOnly>true</originOnly>
@@ -909,6 +909,7 @@ Increases the target number of all Charisma-based skills by 2 due to inhumanly s
         <skillPrereq />
     </ability>
     <ability>
+        <!-- Didn't mark this as a mutation as it can very easily be recontextualized as a post-injury thing, not necessarily a mutation -->
         <lookupName>mutation_serious_disfigurement</lookupName>
         <displayName>Serious Disfigurement (ATOW:Companion)</displayName>
         <desc><![CDATA[Decreases Charisma Attribute by 3 (may not take it below 1).]]></desc>
@@ -919,7 +920,7 @@ Increases the target number of all Charisma-based skills by 2 due to inhumanly s
     </ability>
     <ability>
         <lookupName>mutation_cat_girl</lookupName>
-        <displayName>Functional Tail and Mobile Ears (ATOW:Companion)</displayName>
+        <displayName>Mutation - Functional Tail and Mobile Ears (ATOW:Companion)</displayName>
         <desc><![CDATA[Decreases Charisma Attribute by 3 (may not take it below 1).
 
 The Target Number of all Perception checks decreased by 1 due to improved hearing.]]></desc>
@@ -931,7 +932,7 @@ The Target Number of all Perception checks decreased by 1 due to improved hearin
     </ability>
     <ability>
         <lookupName>mutation_cat_girl_unofficial</lookupName>
-        <displayName>Functional Tail and Mobile Ears (Unofficial)</displayName>
+        <displayName>Mutation - Functional Tail and Mobile Ears (Unofficial)</displayName>
         <desc><![CDATA[Increases Charisma Attribute by 1 (may not take it above 10).
 
 The Target Number of all Perception checks decreased by 1 due to improved hearing.]]></desc>
