@@ -91,7 +91,7 @@ The victor controls the field, and we will be the ones standing when the dust se
                 <forceAlignment>2</forceAlignment>
                 <forceMultiplier>1.0</forceMultiplier>
                 <forceName>Officer</forceName>
-                <generationMethod>1</generationMethod>
+                <generationMethod>3</generationMethod>
                 <generationOrder>5</generationOrder>
                 <maxWeightClass>4</maxWeightClass>
                 <minWeightClass>3</minWeightClass>
