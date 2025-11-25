@@ -1937,7 +1937,7 @@ This penalty is removed once the character acquires level 4 in the Language/Any 
 
 This Flaw only has a mechanical effect when using Alternate Advanced Medical.]]></desc>
         <xpCost>-100</xpCost>
-        <originOnly>true</originOnly>
+        <originOnly>false</originOnly>
         <weight>1</weight>
         <skillPrereq />
     </ability>
@@ -1950,7 +1950,7 @@ The effects from multiple Super Spreaders do not stack.
 
 This Flaw only has a mechanical effect when using Alternate Advanced Medical.]]></desc>
         <xpCost>-100</xpCost>
-        <originOnly>true</originOnly>
+        <originOnly>false</originOnly>
         <weight>1</weight>
         <skillPrereq />
     </ability>
