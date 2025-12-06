@@ -16,24 +16,24 @@
 # affiliated with Microsoft.
 
 {
-    "id" : "08ac3fb1-5172-4e10-8bc4-63ce770fd40b",
+    "id" : "8e55b861-a4ee-414b-971e-979ffd26ef85",
     "version" : {
         "major" : 0,
         "minor" : 50,
-        "patch" : 7,
+"patch": 11,
         "extra" : ""
     },
-        "xpCost": 25,
-    "source" : "A Time of War",
-    "name" : "Capellan Confederation (3053)",
-    "flavorText" : "I am Capellan in 3053—scarred by war, yet alive when others wished us dead. The Confederation endures because the Chancellor’s will is iron, and through that will, so am I.",
+    "xpCost" : 75,
+    "source" : "Field Manual 3085",
+    "name" : "St. Ives Commonality (3072)",
+    "flavorText" : "I come from the St. Ives Commonality, once divided but now restored. We carry old wounds, yet in the spirit of Xin Sheng we endure, finding pride again as part of the Confederation’s destiny.",
     "age" : 0,
     "xpDiscount" : 0,
-    "minimumYear" : 3053,
-    "maximumYear" : 3100,
+    "minimumYear" : 3072,
+    "maximumYear" : 9999,
     "randomWeight" : 1.0,
     "lifeStages" : [
-        "AFFILIATION"
+        "SUB_AFFILIATION"
     ],
     "categories" : [
         "GENERAL_INNER_SPHERE"
@@ -41,35 +41,67 @@
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
         "0" : [
-            "CC",
+            "CC"
+        ],
+        "1" : [
             "CS",
             "ROS",
-            "WOB",
-            "SIC"
+            "WOB"
+        ],
+        "2" : [
+            "CS",
+            "ROS",
+            "WOB"
         ]
     },
     "requirementsLifePath" : {
-        "0" : [ ]
+        "0" : [ ],
+        "1" : [
+            "08ac3fb1-5172-4e10-8bc4-63ce770fd40b"
+        ],
+        "2" : [
+            "6f6a489c-a6c5-4aaa-894b-7d9b44b30683"
+        ]
     },
     "requirementsCategories" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "requirementsAttributes" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
-"requirementsEdge": {},
-    "requirementsFlexibleAttribute" : { },
+    "requirementsEdge" : {
+        "0" : 0,
+        "1" : 0,
+        "2" : 0
+    },
+    "requirementsFlexibleAttribute" : {
+        "0" : null,
+        "1" : null,
+        "2" : null
+    },
     "requirementsTraits" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "requirementsSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "requirementsMetaSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "requirementsAbilities" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "exclusionsFactions" : {
         "0" : [ ]
@@ -83,8 +115,12 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
-    "exclusionsFlexibleAttribute" : { },
+    "exclusionsEdge" : {
+        "0" : 10
+    },
+    "exclusionsFlexibleAttribute" : {
+        "0" : null
+    },
     "exclusionsTraits" : {
         "0" : { }
     },
@@ -102,32 +138,38 @@
             "WILLPOWER" : 50
         }
     },
-"fixedXPEdge": {
-"0": 50
-},
-"fixedXPFlexibleAttribute": {
-"0" : null
-},
+    "fixedXPEdge" : {
+        "0" : 50
+    },
+    "fixedXPFlexibleAttribute" : {
+        "0" : null
+    },
     "fixedXPTraits" : {
-        "0" : { }
+        "0" : {
+            "WEALTH" : 10,
+            "REPUTATION" : -50
+        }
     },
     "fixedXPSkills" : {
         "0" : {
-            "Martial Arts (RP Only)" : 5,
-            "Protocols/Any (RP Only)" : 10,
-            "Language/Any (RP Only)" : 10
+            "Negotiation" : 10,
+            "Language/Any (RP Only)" : 10,
+            "Martial Arts (RP Only)" : 15
         }
     },
     "fixedXPMetaSkills" : {
-        "0" : { }
+        "0" : {
+            "ROLEPLAY_ART" : 5
+        }
     },
     "fixedXPAbilities" : {
         "0" : {
-            "compulsion_mild_paranoia" : -100
+            "atow_citizenship" : 25,
+            "compulsion_other_faction_hate" : -50
         }
     },
     "flexibleXPAttributes" : { },
-"flexibleXPEdge" : {},
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
     "flexibleXPTraits" : { },
     "flexibleXPSkills" : { },

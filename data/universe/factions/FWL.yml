@@ -20,6 +20,9 @@ name: Free Worlds League
 capital: Atreus (FWL)
 yearsActive:
   - start: 2271
+nameChanges:
+  3079: Former Free Worlds League
+  3139: Free Worlds League
 tags:
   - PLAYABLE
   - MAJOR

@@ -20,17 +20,17 @@
     "version" : {
         "major" : 0,
         "minor" : 50,
-        "patch" : 7,
+"patch": 11,
         "extra" : ""
     },
-        "xpCost": 40,
+    "xpCost" : 40,
     "source" : "Era Report 2750",
     "name" : "Crucis March (2400)",
     "flavorText" : "I come from the Crucis March, heart of the Federated Suns. Here, loyalty to House Davion is unshaken, for we are the center from which the Suns’ light spreads across the stars.",
     "age" : 0,
     "xpDiscount" : 0,
     "minimumYear" : 0,
-"maximumYear": 3062,
+    "maximumYear" : 3062,
     "randomWeight" : 1.0,
     "lifeStages" : [
         "SUB_AFFILIATION"
@@ -41,34 +41,92 @@
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
         "0" : [
+            "FS"
+        ],
+        "1" : [
+            "CS"
+        ],
+        "2" : [
+            "CS"
+        ],
+        "3" : [
+            "CS",
+            "FC"
+        ],
+        "4" : [
             "CS",
             "WOB",
-            "FS",
             "FC"
         ]
     },
     "requirementsLifePath" : {
-        "0" : [ ]
+        "0" : [ ],
+        "1" : [
+            "dbc41869-024c-4760-9c79-da4c4ad22307"
+        ],
+        "2" : [
+            "d5ddf784-8fd7-41d7-b6c0-841e96f572f7"
+        ],
+        "3" : [
+            "6b5e400f-5753-4383-ba33-304a73754ad2"
+        ],
+        "4" : [
+            "25699178-d833-49f3-87eb-4133cffb7234"
+        ]
     },
     "requirementsCategories" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { },
+        "4" : { }
     },
     "requirementsAttributes" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { },
+        "4" : { }
     },
-"requirementsEdge": {},
-    "requirementsFlexibleAttribute" : { },
+    "requirementsEdge" : {
+        "1" : null,
+        "2" : null,
+        "3" : null,
+        "4" : null
+    },
+    "requirementsFlexibleAttribute" : {
+        "1" : null,
+        "2" : null,
+        "3" : null,
+        "4" : null
+    },
     "requirementsTraits" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { },
+        "4" : { }
     },
     "requirementsSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { },
+        "4" : { }
     },
     "requirementsMetaSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { },
+        "4" : { }
     },
     "requirementsAbilities" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { },
+        "4" : { }
     },
     "exclusionsFactions" : {
         "0" : [ ]
@@ -82,7 +140,7 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
+    "exclusionsEdge" : { },
     "exclusionsFlexibleAttribute" : { },
     "exclusionsTraits" : {
         "0" : { }
@@ -101,12 +159,12 @@
             "WILLPOWER" : 50
         }
     },
-"fixedXPEdge": {
-"0": -50
-},
-"fixedXPFlexibleAttribute": {
-"0" : null
-},
+    "fixedXPEdge" : {
+        "0" : -50
+    },
+    "fixedXPFlexibleAttribute" : {
+        "0" : null
+    },
     "fixedXPTraits" : {
         "0" : { }
     },
@@ -125,7 +183,7 @@
         "0" : { }
     },
     "flexibleXPAttributes" : { },
-    "flexibleXPEdge": {},
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
     "flexibleXPTraits" : { },
     "flexibleXPSkills" : { },

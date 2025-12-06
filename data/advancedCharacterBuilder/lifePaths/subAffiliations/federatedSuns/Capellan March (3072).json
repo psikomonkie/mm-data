@@ -16,22 +16,22 @@
 # affiliated with Microsoft.
 
 {
-    "id" : "58bfb1c9-de1d-490a-9bb3-50e90f14063a",
+    "id" : "5ec262a4-0d9a-4d6a-b53e-0df6e1e14e16",
     "version" : {
         "major" : 0,
         "minor" : 50,
-        "patch" : 7,
+"patch": 11,
         "extra" : ""
     },
-    "xpCost" : 45,
-    "source" : "Era Report 2750",
-    "name" : "Other League World (2400)",
-    "flavorText" : "I come from a world of the Free Worlds League, far from the great duchies’ courts. We are small, but our voice is our own, and together with others like us we give the League its true breadth.",
+    "xpCost" : 90,
+    "source" : "Field Manual 3085",
+    "name" : "Capellan March (3072)",
+    "flavorText" : "I come from the Capellan March, where vigilance is our way of life. We bled in the Jihad and carry the stain of missteps, yet our loyalty to Davion remains, for guarding the border is what defines us.",
     "age" : 0,
     "xpDiscount" : 0,
-    "minimumYear" : 0,
-"maximumYear": 3062,
-    "randomWeight" : 0.05,
+    "minimumYear" : 3072,
+    "maximumYear" : 9999,
+    "randomWeight" : 1.0,
     "lifeStages" : [
         "SUB_AFFILIATION"
     ],
@@ -41,34 +41,67 @@
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
         "0" : [
+            "FS"
+        ],
+        "1" : [
             "CS",
-            "FWLR",
-            "FWL",
+            "ROS",
+            "WOB"
+        ],
+        "2" : [
+            "CS",
+            "ROS",
             "WOB"
         ]
     },
     "requirementsLifePath" : {
-        "0" : [ ]
+        "0" : [ ],
+        "1" : [
+            "776136c8-acec-4464-9e73-bcf7b0ddcb3d"
+        ],
+        "2" : [
+            "efae675c-1e29-4036-bee9-49757e75a051"
+        ]
     },
     "requirementsCategories" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "requirementsAttributes" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
-"requirementsEdge": {},
-    "requirementsFlexibleAttribute" : { },
+    "requirementsEdge" : {
+        "0" : 0,
+        "1" : 0,
+        "2" : 0
+    },
+    "requirementsFlexibleAttribute" : {
+        "0" : null,
+        "1" : null,
+        "2" : null
+    },
     "requirementsTraits" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "requirementsSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "requirementsMetaSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "requirementsAbilities" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { }
     },
     "exclusionsFactions" : {
         "0" : [ ]
@@ -82,8 +115,12 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
-    "exclusionsFlexibleAttribute" : { },
+    "exclusionsEdge" : {
+        "0" : 10
+    },
+    "exclusionsFlexibleAttribute" : {
+        "0" : null
+    },
     "exclusionsTraits" : {
         "0" : { }
     },
@@ -97,28 +134,40 @@
         "0" : { }
     },
     "fixedXPAttributes" : {
-        "0" : { }
+        "0" : {
+            "WILLPOWER" : 75
+        }
     },
-"fixedXPEdge": {},
-    "fixedXPFlexibleAttribute" : { },
+    "fixedXPEdge" : {
+        "0" : 25
+    },
+    "fixedXPFlexibleAttribute" : {
+        "0" : null
+    },
     "fixedXPTraits" : {
-        "0" : { }
+        "0" : {
+            "EQUIPPED" : 50,
+            "CONNECTIONS" : 50
+        }
     },
     "fixedXPSkills" : {
         "0" : {
-            "Survival/Any (RP Only)" : 15,
-            "Language/Any (RP Only)" : 15,
-            "Appraisal (RP Only)" : 15
+            "Language/Any (RP Only)" : 10,
+            "Interest/History (RP Only)" : 15,
+            "Protocols/Any (RP Only)" : 15
         }
     },
     "fixedXPMetaSkills" : {
         "0" : { }
     },
     "fixedXPAbilities" : {
-        "0" : { }
+        "0" : {
+            "compulsion_parent_faction_dislike" : -50,
+            "compulsion_other_faction_hate" : -100
+        }
     },
     "flexibleXPAttributes" : { },
-    "flexibleXPEdge": { },
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
     "flexibleXPTraits" : { },
     "flexibleXPSkills" : { },

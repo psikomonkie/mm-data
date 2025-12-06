@@ -20,17 +20,17 @@
     "version" : {
         "major" : 0,
         "minor" : 50,
-        "patch" : 7,
+"patch": 11,
         "extra" : ""
     },
-        "xpCost": 150,
-        "source" : "Unofficial",
+    "xpCost" : 150,
+    "source" : "Unofficial",
     "name" : "Free Rasalhague Republic (3034)",
     "flavorText" : "I was born free, not handed freedom by some noble’s decree. In the Republic, I fight not for conquest—but so my people can continue to live without fear.",
     "age" : 0,
     "xpDiscount" : 0,
     "minimumYear" : 0,
-    "maximumYear" : 3052,
+    "maximumYear" : 3051,
     "randomWeight" : 1.0,
     "lifeStages" : [
         "AFFILIATION"
@@ -55,7 +55,7 @@
     "requirementsAttributes" : {
         "0" : { }
     },
-"requirementsEdge": {},
+    "requirementsEdge" : { },
     "requirementsFlexibleAttribute" : { },
     "requirementsTraits" : {
         "0" : { }
@@ -81,7 +81,7 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
+    "exclusionsEdge" : { },
     "exclusionsFlexibleAttribute" : { },
     "exclusionsTraits" : {
         "0" : { }
@@ -102,7 +102,7 @@
             "WILLPOWER" : 25
         }
     },
-            "fixedXPEdge": {},
+    "fixedXPEdge" : { },
     "fixedXPFlexibleAttribute" : { },
     "fixedXPTraits" : {
         "0" : { }
@@ -122,10 +122,10 @@
         }
     },
     "fixedXPAbilities" : {
-"0": {}
+        "0" : { }
     },
     "flexibleXPAttributes" : { },
-"flexibleXPEdge" : {},
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
     "flexibleXPTraits" : { },
     "flexibleXPSkills" : { },

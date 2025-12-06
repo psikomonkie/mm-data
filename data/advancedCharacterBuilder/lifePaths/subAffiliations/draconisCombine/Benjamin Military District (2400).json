@@ -20,7 +20,7 @@
     "version" : {
         "major" : 0,
         "minor" : 50,
-        "patch" : 7,
+"patch": 11,
         "extra" : ""
     },
     "xpCost" : 150,
@@ -41,32 +41,47 @@
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
         "0" : [
-"CS",
             "DC"
+        ],
+        "1" : [
+            "CS"
         ]
     },
     "requirementsLifePath" : {
-        "0" : [ ]
+        "0" : [ ],
+        "1" : [
+            "689fbbfb-20a8-4600-924e-3f9dae0b54f4"
+        ]
     },
     "requirementsCategories" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "requirementsAttributes" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
-"requirementsEdge": {},
-    "requirementsFlexibleAttribute" : { },
+    "requirementsEdge" : {
+        "1" : null
+    },
+    "requirementsFlexibleAttribute" : {
+        "1" : null
+    },
     "requirementsTraits" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "requirementsSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "requirementsMetaSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "requirementsAbilities" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "exclusionsFactions" : {
         "0" : [ ]
@@ -80,7 +95,7 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
+    "exclusionsEdge" : { },
     "exclusionsFlexibleAttribute" : { },
     "exclusionsTraits" : {
         "0" : { }
@@ -97,7 +112,7 @@
     "fixedXPAttributes" : {
         "0" : { }
     },
-"fixedXPEdge": {},
+    "fixedXPEdge" : { },
     "fixedXPFlexibleAttribute" : { },
     "fixedXPTraits" : {
         "0" : {
@@ -120,12 +135,12 @@
     "fixedXPAbilities" : {
         "0" : {
             "compulsion_xenophobia" : 50,
-"atow_patient": 15,
-"compulsion_other_faction_hate": -50
+            "atow_patient" : 15,
+            "compulsion_other_faction_hate" : -50
         }
     },
     "flexibleXPAttributes" : { },
-"flexibleXPEdge": {},
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
     "flexibleXPTraits" : { },
     "flexibleXPSkills" : { },

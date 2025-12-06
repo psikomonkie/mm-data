@@ -20,7 +20,7 @@
     "version" : {
         "major" : 0,
         "minor" : 50,
-        "patch" : 7,
+"patch": 11,
         "extra" : ""
     },
     "xpCost" : 40,
@@ -30,7 +30,7 @@
     "age" : 0,
     "xpDiscount" : 0,
     "minimumYear" : 0,
-"maximumYear": 3062,
+    "maximumYear" : 3062,
     "randomWeight" : 1.0,
     "lifeStages" : [
         "SUB_AFFILIATION"
@@ -41,34 +41,77 @@
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
         "0" : [
+            "FS"
+        ],
+        "1" : [
+            "CS"
+        ],
+        "2" : [
+            "CS"
+        ],
+        "3" : [
             "CS",
             "WOB",
-            "FS",
             "FC"
         ]
     },
     "requirementsLifePath" : {
-        "0" : [ ]
+        "0" : [ ],
+        "1" : [
+            "dbc41869-024c-4760-9c79-da4c4ad22307"
+        ],
+        "2" : [
+            "d5ddf784-8fd7-41d7-b6c0-841e96f572f7"
+        ],
+        "3" : [
+            "6b5e400f-5753-4383-ba33-304a73754ad2"
+        ]
     },
     "requirementsCategories" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
     },
     "requirementsAttributes" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
     },
-"requirementsEdge": {},
-    "requirementsFlexibleAttribute" : { },
+    "requirementsEdge" : {
+        "1" : null,
+        "2" : null,
+        "3" : null
+    },
+    "requirementsFlexibleAttribute" : {
+        "1" : null,
+        "2" : null,
+        "3" : null
+    },
     "requirementsTraits" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
     },
     "requirementsSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
     },
     "requirementsMetaSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
     },
     "requirementsAbilities" : {
-        "0" : { }
+        "0" : { },
+        "1" : { },
+        "2" : { },
+        "3" : { }
     },
     "exclusionsFactions" : {
         "0" : [ ]
@@ -82,7 +125,7 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
+    "exclusionsEdge" : { },
     "exclusionsFlexibleAttribute" : { },
     "exclusionsTraits" : {
         "0" : { }
@@ -103,7 +146,7 @@
             "WILLPOWER" : 100
         }
     },
-            "fixedXPEdge": {},
+    "fixedXPEdge" : { },
     "fixedXPFlexibleAttribute" : { },
     "fixedXPTraits" : {
         "0" : {
@@ -128,42 +171,39 @@
     },
     "flexibleXPAttributes" : {
         "0" : { },
-"1": {
-},
-"2": {
-}
-},
-"flexibleXPEdge": {
-"2": 1
+        "1" : { },
+        "2" : { }
     },
-"flexibleXPFlexibleAttribute": {
-"2": null
-},
+    "flexibleXPEdge" : {
+        "2" : 1
+    },
+    "flexibleXPFlexibleAttribute" : {
+        "2" : null
+    },
     "flexibleXPTraits" : {
         "0" : { },
-"1": {},
-"2": {
-}
+        "1" : { },
+        "2" : { }
     },
     "flexibleXPSkills" : {
         "0" : { },
-        "1": {},
-"2": {}
+        "1" : { },
+        "2" : { }
     },
     "flexibleXPMetaSkills" : {
         "0" : { },
-"1": {},
-"2" : {}
+        "1" : { },
+        "2" : { }
     },
     "flexibleXPAbilities" : {
         "0" : {
             "flaw_illiterate" : -50
         },
         "1" : {
-"compulsion_other_faction_hate" : -50
-},
-"2": {
-"compulsion_pirate_hate": -50
+            "compulsion_other_faction_hate" : -50
+        },
+        "2" : {
+            "compulsion_pirate_hate" : -50
         }
     },
     "flexibleXPPickCount" : 1

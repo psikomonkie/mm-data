@@ -1451,7 +1451,7 @@ Furthermore, the character reduces the target number of all Sensor Operations ch
     </ability>
     <ability>
         <lookupName>compulsion_unpleasant_personality</lookupName>
-        <displayName>Trivial Compulsion - Unpleasant Personality (ATOW)</displayName>
+        <displayName>Trivial Compulsion - Difficult Personality (ATOW)</displayName>
         <desc><![CDATA[-1 to all Charisma-based Skill Checks.
 
 This SPA represents ATOW compulsions such as arrogance and pride.

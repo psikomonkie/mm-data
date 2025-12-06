@@ -20,7 +20,7 @@
     "version" : {
         "major" : 0,
         "minor" : 50,
-        "patch" : 7,
+"patch": 11,
         "extra" : ""
     },
     "xpCost" : 50,
@@ -30,7 +30,7 @@
     "age" : 0,
     "xpDiscount" : 0,
     "minimumYear" : 3025,
-    "maximumYear" : 9999,
+    "maximumYear" : 3080,
     "randomWeight" : 1.0,
     "lifeStages" : [
         "SUB_AFFILIATION"
@@ -41,8 +41,8 @@
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
         "0" : [
-"CW",
-"CWIE"
+            "CW",
+            "CWIE"
         ]
     },
     "requirementsLifePath" : {
@@ -54,7 +54,7 @@
     "requirementsAttributes" : {
         "0" : { }
     },
-"requirementsEdge": {},
+    "requirementsEdge" : { },
     "requirementsFlexibleAttribute" : {
         "0" : null
     },
@@ -82,7 +82,7 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
+    "exclusionsEdge" : { },
     "exclusionsFlexibleAttribute" : {
         "0" : null
     },
@@ -104,7 +104,7 @@
             "INTELLIGENCE" : 25
         }
     },
-"fixedXPEdge": {},
+    "fixedXPEdge" : { },
     "fixedXPFlexibleAttribute" : {
         "0" : null
     },
@@ -135,7 +135,7 @@
         "3" : { },
         "4" : { }
     },
-"flexibleXPEdge": {},
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : {
         "0" : null,
         "1" : null,

@@ -20,17 +20,17 @@
     "version" : {
         "major" : 0,
         "minor" : 50,
-        "patch" : 7,
+"patch": 11,
         "extra" : ""
     },
-        "xpCost": 25,
+    "xpCost" : 25,
     "source" : "Era Report: 3052",
     "name" : "Capellan Confederation (3025)",
     "flavorText" : "I am Capellan—dismissed as weak, mocked as broken. Let them laugh. We endure, we sharpen in silence, and when the Chancellor calls, we strike with all we have left.",
     "age" : 0,
     "xpDiscount" : 0,
     "minimumYear" : 3025,
-    "maximumYear" : 3052,
+    "maximumYear" : 3051,
     "randomWeight" : 1.0,
     "lifeStages" : [
         "AFFILIATION"
@@ -56,7 +56,7 @@
     "requirementsAttributes" : {
         "0" : { }
     },
-"requirementsEdge": {},
+    "requirementsEdge" : { },
     "requirementsFlexibleAttribute" : { },
     "requirementsTraits" : {
         "0" : { }
@@ -82,7 +82,7 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
+    "exclusionsEdge" : { },
     "exclusionsFlexibleAttribute" : { },
     "exclusionsTraits" : {
         "0" : { }
@@ -101,7 +101,7 @@
             "WILLPOWER" : 75
         }
     },
-"fixedXPEdge": {},
+    "fixedXPEdge" : { },
     "fixedXPFlexibleAttribute" : { },
     "fixedXPTraits" : {
         "0" : { }
@@ -118,12 +118,12 @@
     },
     "fixedXPAbilities" : {
         "0" : {
-"compulsion_mild_paranoia": -150,
-"exceptional_attribute_edge": 50
+            "compulsion_mild_paranoia" : -150,
+            "exceptional_attribute_edge" : 50
         }
     },
     "flexibleXPAttributes" : { },
-    "flexibleXPEdge": { },
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
     "flexibleXPTraits" : { },
     "flexibleXPSkills" : { },

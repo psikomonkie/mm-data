@@ -20,17 +20,17 @@
     "version" : {
         "major" : 0,
         "minor" : 50,
-        "patch" : 7,
+"patch": 11,
         "extra" : ""
     },
-        "xpCost": 110,
+    "xpCost" : 110,
     "source" : "A Time of War",
     "name" : "Federated Suns (3025)",
     "flavorText" : "I am Davion, a soldier of the Federated Suns. Surrounded by enemies, I fight not for conquest, but to keep the light of freedom burning against the dark.",
     "age" : 0,
     "xpDiscount" : 0,
     "minimumYear" : 3025,
-    "maximumYear" : 3100,
+    "maximumYear" : 3066,
     "randomWeight" : 1.0,
     "lifeStages" : [
         "AFFILIATION"
@@ -57,7 +57,7 @@
             "INTELLIGENCE" : 4
         }
     },
-        "requirementsEdge": {},
+    "requirementsEdge" : { },
     "requirementsFlexibleAttribute" : { },
     "requirementsTraits" : {
         "0" : { }
@@ -83,7 +83,7 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
+    "exclusionsEdge" : { },
     "exclusionsFlexibleAttribute" : { },
     "exclusionsTraits" : {
         "0" : { }
@@ -100,7 +100,7 @@
     "fixedXPAttributes" : {
         "0" : { }
     },
-"fixedXPEdge": {},
+    "fixedXPEdge" : { },
     "fixedXPFlexibleAttribute" : { },
     "fixedXPTraits" : {
         "0" : { }
@@ -120,7 +120,7 @@
         "0" : { },
         "1" : { }
     },
-"flexibleXPEdge": {},
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
     "flexibleXPTraits" : {
         "0" : { },
@@ -128,10 +128,10 @@
     },
     "flexibleXPSkills" : {
         "0" : {
-    "Tactics/Any": 100
+            "Tactics/Any" : 100
         },
         "1" : {
-"Strategy": 100
+            "Strategy" : 100
         }
     },
     "flexibleXPMetaSkills" : {

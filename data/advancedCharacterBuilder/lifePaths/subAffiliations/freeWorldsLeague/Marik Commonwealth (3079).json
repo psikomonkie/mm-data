@@ -16,24 +16,24 @@
 # affiliated with Microsoft.
 
 {
-    "id" : "b01c19b7-ca40-40a5-bb18-795df2c0c2ee",
+    "id" : "34ba3492-9c9d-42a6-8058-e238023baacf",
     "version" : {
         "major" : 0,
         "minor" : 50,
-        "patch" : 7,
+"patch": 11,
         "extra" : ""
     },
-    "xpCost" : 0,
+    "xpCost" : 125,
     "source" : "A Time of War",
-    "name" : "Major Periphery (3053)",
-    "flavorText" : "I don’t serve the Inner Sphere—I serve my people. Out here on the edge, we don’t beg for respect. We earn it, one fight at a time.",
+    "name" : "Marik Commonwealth (3079)",
+    "flavorText" : "I come from the Marik Commonwealth, heart of the old League. Though unity has shattered, we remain true to the Marik name, for through it our strength and our future endure.",
     "age" : 0,
     "xpDiscount" : 0,
-    "minimumYear" : 3053,
-    "maximumYear" : 3062,
+    "minimumYear" : 0,
+    "maximumYear" : 9999,
     "randomWeight" : 1.0,
     "lifeStages" : [
-        "AFFILIATION"
+        "SUB_AFFILIATION"
     ],
     "categories" : [
         "GENERAL_INNER_SPHERE"
@@ -42,13 +42,9 @@
     "requirementsFactions" : {
         "0" : [
             "CS",
-            "MOC",
-            "OA",
-            "THW",
-            "MH",
-            "WOB",
-            "CIR",
-            "TC"
+            "MCM",
+            "ROS",
+            "WOB"
         ]
     },
     "requirementsLifePath" : {
@@ -60,8 +56,12 @@
     "requirementsAttributes" : {
         "0" : { }
     },
-"requirementsEdge": {},
-    "requirementsFlexibleAttribute" : { },
+    "requirementsEdge" : {
+        "0" : 0
+    },
+    "requirementsFlexibleAttribute" : {
+        "0" : null
+    },
     "requirementsTraits" : {
         "0" : { }
     },
@@ -86,8 +86,12 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
-    "exclusionsFlexibleAttribute" : { },
+    "exclusionsEdge" : {
+        "0" : 10
+    },
+    "exclusionsFlexibleAttribute" : {
+        "0" : null
+    },
     "exclusionsTraits" : {
         "0" : { }
     },
@@ -103,15 +107,25 @@
     "fixedXPAttributes" : {
         "0" : { }
     },
-"fixedXPEdge": {},
-    "fixedXPFlexibleAttribute" : { },
+    "fixedXPEdge" : {
+        "0" : 0
+    },
+    "fixedXPFlexibleAttribute" : {
+        "0" : null
+    },
     "fixedXPTraits" : {
         "0" : {
-            "EQUIPPED" : -50
+            "EQUIPPED" : 100,
+            "WEALTH" : 100,
+            "REPUTATION" : -100
         }
     },
     "fixedXPSkills" : {
-        "0" : { }
+        "0" : {
+            "Negotiation" : 10,
+            "Protocols/Any (RP Only)" : 10,
+            "Appraisal (RP Only)" : 5
+        }
     },
     "fixedXPMetaSkills" : {
         "0" : { }
@@ -120,7 +134,7 @@
         "0" : { }
     },
     "flexibleXPAttributes" : { },
-"flexibleXPEdge" : {},
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
     "flexibleXPTraits" : { },
     "flexibleXPSkills" : { },

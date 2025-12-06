@@ -16,14 +16,14 @@
 # affiliated with Microsoft.
 
 {
-    "id" : "9c14d55c-e204-468c-86d1-4b050570e799",
+    "id" : "b0d1863e-122d-4cad-8467-264b1e880405",
     "version" : {
         "major" : 0,
         "minor" : 50,
-        "patch" : 7,
+"patch": 11,
         "extra" : ""
     },
-        "xpCost": 100,
+    "xpCost" : 100,
     "source" : "Era Report 2750",
     "name" : "Capella Commonality (2400)",
     "flavorText" : "I come from the heart of the Confederation, where loyalty is life. To serve the Chancellor is not duty alone; it is the highest honor my blood can carry.",
@@ -42,30 +42,46 @@
     "requirementsFactions" : {
         "0" : [
             "CC"
+        ],
+        "1" : [
+            "CS"
         ]
     },
     "requirementsLifePath" : {
-        "0" : [ ]
+        "0" : [ ],
+        "1" : [
+            "8cf2f27d-2f95-4461-8fe8-983ffb780fc5"
+        ]
     },
     "requirementsCategories" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "requirementsAttributes" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
-"requirementsEdge": {},
-    "requirementsFlexibleAttribute" : { },
+    "requirementsEdge" : {
+        "1" : 0
+    },
+    "requirementsFlexibleAttribute" : {
+        "1" : null
+    },
     "requirementsTraits" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "requirementsSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "requirementsMetaSkills" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "requirementsAbilities" : {
-        "0" : { }
+        "0" : { },
+        "1" : { }
     },
     "exclusionsFactions" : {
         "0" : [ ]
@@ -79,7 +95,7 @@
     "exclusionsAttributes" : {
         "0" : { }
     },
-"exclusionsEdge": {},
+    "exclusionsEdge" : { },
     "exclusionsFlexibleAttribute" : { },
     "exclusionsTraits" : {
         "0" : { }
@@ -96,12 +112,12 @@
     "fixedXPAttributes" : {
         "0" : { }
     },
-"fixedXPEdge": {
-"0": 55
-},
-"fixedXPFlexibleAttribute": {
-"0": null
-},
+    "fixedXPEdge" : {
+        "0" : 55
+    },
+    "fixedXPFlexibleAttribute" : {
+        "0" : null
+    },
     "fixedXPTraits" : {
         "0" : {
             "WEALTH" : 10,
@@ -121,8 +137,7 @@
         "0" : { }
     },
     "flexibleXPAttributes" : { },
-"flexibleXPEdge": {
-},
+    "flexibleXPEdge" : { },
     "flexibleXPFlexibleAttribute" : { },
     "flexibleXPTraits" : { },
     "flexibleXPSkills" : { },

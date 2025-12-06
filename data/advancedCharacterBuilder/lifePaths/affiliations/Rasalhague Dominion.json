@@ -20,7 +20,7 @@
     "version" : {
         "major" : 0,
         "minor" : 50,
-        "patch" : 7,
+"patch": 11,
         "extra" : ""
     },
     "xpCost" : 85,
@@ -36,8 +36,8 @@
         "AFFILIATION"
     ],
     "categories" : [
-"GENERAL_CLAN",
-"GENERAL_INNER_SPHERE"
+"GENERAL_INNER_SPHERE",
+"GENERAL_CLAN"
     ],
     "isPlayerRestricted" : false,
     "requirementsFactions" : {
